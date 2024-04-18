@@ -1,0 +1,322 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "image": "./src/assets/legion1.jpg",
+      "description": "Lenovo Pro 5i Gen 8 Intel 16\" with RTX™ 4070",
+      "price": 1379.99,
+      "count": 1
+    },
+    {
+      "id": "2",
+      "image": "./src/assets/legion2.jpg",
+      "description": "2024 Newest Lenovo Legion Pro 7 Gaming Laptop, 16\" 240Hz Display, Intel Core i9-13900HX(24-core), GeForce RTX 4080, 64GB DDR5 RAM, 4TB SSD, Wi-Fi 6, Backlit Keyboard, Windows 11 Pro, with Laptop Stand",
+      "price": 2749.99,
+      "count": 1
+    },
+    {
+      "id": "3",
+      "image": "./src/assets/legion3.jpg",
+      "description": "Lenovo Legion Pro 7i Gen 8 16\" Gaming Laptop (2023 Model) - Intel Core i9-13900HX 24-Core, NVIDIA GeForce RTX 4080, 32GB RAM, 1TB M.2 NVMe Gen 4 SSD, 16.0\" IPS QHD+ 500 nits 240Hz, Windows 11 Home",
+      "price": 2409,
+      "count": 1
+    },
+    {
+      "id": "4",
+      "image": "./src/assets/legion4.jpg",
+      "description": "Lenovo Legion Pro 5i - (2023) - Gaming Laptop Computer - NVIDIA GeForce RTX 4060-16\" WQXGA - 165Hz - Intel Core i7-13700HX - 16GB RAM - 1TB SSD - Windows 11-3-Month Xbox GamePass Included",
+      "price": 1249.99,
+      "count": 1
+    },
+    {
+      "id": "5",
+      "image": "./src/assets/legion5.jpg",
+      "description": "LENOVO Legion 5 Pro 16\" Gaming Laptop (13th Gen Intel Core i7-13700HX, 32GB DDR5 RAM, 1TB SSD, NVIDIA GeForce RTX 4060, 165Hz Display,Microsoft® Windows 11 Home (64-bit)",
+      "price": 1397,
+      "count": 1
+    },
+    {
+      "id": "6",
+      "image": "./src/assets/legion6.jpg",
+      "description": "Lenovo Legion Pro 5i Gaming Laptop (16\" 2K 165Hz, Intel 13th Gen Core i7-13700HX, GeForce RTX 4060 8GB 140W, 32GB DDR5 RAM, 1TB SSD) 4-Zone RGB Backlit, Wi-Fi 6E, Win 11 Home, 2024, Onyx Grey",
+      "price": 1399.99,
+      "count": 1
+    },
+    {
+      "id": "7",
+      "image": "./src/assets/legion7.jpg",
+      "description": "LENOVO Legion Pro 5i Gen 8 Gaming Laptop, 16\" WQXGA 165Hz Display, Intel Core i7-13700HX, NVIDIA RTX 4070, 32GB DDR5 RAM, 2TB SSD, Webcam, RGB Backlit Keyboard, Wi-Fi 6, Windows 11 Home",
+      "price": 1728,
+      "count": 1
+    },
+    {
+      "id": "8",
+      "image": "./src/assets/legion8.jpg",
+      "description": "Lenovo Legion Pro 5i Gaming Laptop, 16\" WQHD IPS 165Hz Display, GeForce RTX 4070, Intel 13th Gen i9-13900HX, 64GB DDR5 RAM, 2TB SSD + 2TB SSD, Webcam, 4-Zone RGB Backlit KB, Wi-Fi 6E, Windows 11 Home",
+      "price": 2218,
+      "count": 1
+    },
+    {
+      "id": "9",
+      "image": "./src/assets/legion9.jpg",
+      "description": "Lenovo Legion Pro 5i 16\" WQXGA (2560 x 1600) Gaming Laptop - i9-13900HX (24-Core) Processor-GeForce RTX 4060 (TGP 140W), Win 11 Home, w/Mouse Pad (32GB RAM | 2TB PCIe SSD)",
+      "price": 1659.9,
+      "count": 1
+    },
+    {
+      "id": "10",
+      "image": "./src/assets/legion10.jpg",
+      "description": "Lenovo Legion 5i Gaming Laptop, NVIDIA GeForce RTX 4070 8G, 16\" WQXGA Display, Intel Core i7-14650HX, 32GB RAM, 512GB SSD, 2560x1600 px, Windows 11, Luna Grey",
+      "price": 1499.99,
+      "count": 1
+    },
+    {
+      "id": "11",
+      "image": "./src/assets/legion11.jpg",
+      "description": "Lenovo Legion Pro 7i Gaming Laptop, 16\" WQHD IPS 240Hz Display, Intel Core i9-13900HX, GeForce RTX 4080, 32GB DDR5 RAM, 2TB SSD, Webcam, Per-Key RGB Backlit KB, Wi-Fi 6E, Windows 11 Home",
+      "price": 2391.99,
+      "count": 1
+    },
+    {
+      "id": "12",
+      "image": "./src/assets/legion12.jpg",
+      "description": "Legion 5 Gaming Laptop 15.6\" WQHD IPS 165Hz 350nits 100% sRGB AMD Octa-Core Ryzen 7 7735HS 32GB RAM 1TB SSD GeForce RTX 4060 8GB USB-C Backlit Rapid Charge Win11 Gray + HDMI Cable",
+      "price": 1179,
+      "count": 1
+    },
+    {
+      "id": "13",
+      "image": "./src/assets/legion13.jpg",
+      "description": "Lenovo Legion 5 Gaming Laptop, 15.6\" FHD Display, AMD Ryzen 7 5800H, 16GB RAM, 512GB Storage, NVIDIA GeForce RTX 3050Ti, Windows 10H, Phantom Blue",
+      "price": 1010,
+      "count": 1
+    },
+    {
+      "id": "14",
+      "image": "./src/assets/legion14.jpg",
+      "description": "Lenovo Legion 5 Gaming Laptop, 15.6\" WQHD 165Hz Display, 8-Core AMD Ryzen 7 7735HS, NVIDIA Geforce RTX 4060, 32GB DDR5 RAM, 1TB NVMe SSD, Backlit Keyboard, WiFi 6, HDMI, Win 11, w/CUE Accessories",
+      "price": 1179.99,
+      "count": 1
+    },
+    {
+      "id": "15",
+      "image": "./src/assets/legion15.jpg",
+      "description": "Lenovo Legion Pro 5 Gaming Laptop | 16\" WQXGA 165Hz 100% sRGB | Intel 16-Core i7-13700HX (>i9-12900H) | 32GB DDR5 1TB SSD | GeForce RTX 4060 8GB | RGB Backlit Rapid Charge Win11Pro Black + HDMI Cable",
+      "price": 1394.99,
+      "count": 1
+    },
+    {
+      "id": "16",
+      "image": "./src/assets/legion16.jpg",
+      "description": "LENOVO Legion Pro 5i Gaming Laptop, 16\" WQXGA Display, 13th Gen Intel Core i9-13900HX, 64 GB DDR5 RAM, 4 TB M2 SSD, GeForce RTX 4060, Backlit Keyboard, Windows 11 Home, Gray",
+      "price": 1999,
+      "count": 1
+    },
+    {
+      "id": "17",
+      "image": "./src/assets/legion17.jpg",
+      "description": "Lenovo Legion Pro 7i Gaming Laptop, 16\" WQHD IPS 240Hz Display, Intel Core i9-13900HX, GeForce RTX 4080, 64GB DDR5 RAM, 2TB SSD + 2TB SSD, Webcam, Per-Key RGB Backlit KB, Wi-Fi 6E, Windows 11 Home",
+      "price": 2583.99,
+      "count": 1
+    },
+    {
+      "id": "18",
+      "image": "./src/assets/legion18.jpg",
+      "description": "Lenovo Legion Slim 7i Gen 8 16\" Gaming Laptop (2023 Model) - Intel Core i7-13700H 14C, NVIDIA GeForce RTX 4060, 16GB RAM, 1TB M.2 NVMe SSD, 16.0\" IPS QHD+ 500 nits 240Hz, Windows 11 Home",
+      "price": 1699.95,
+      "count": 1
+    },
+    {
+      "id": "19",
+      "image": "./src/assets/legion19.jpg",
+      "description": "Lenovo Legion 5 Gaming Laptop 15.6\" FHD 1920 x 1080 AMD Ryzen 5 6600H NVIDIA GeForce RTX 3050 Ti 4GB GDDR6 16GB DDR5 512GB SSD RGB Backlit Keyboard Windows 11 Home (Renewed)",
+      "price": 695,
+      "count": 1
+    },
+    {
+      "id": "20",
+      "image": "./src/assets/legion20.jpg",
+      "description": "Lenovo Legion 5 15.6\", Ryzen 5 5600H, GeForce RTX 3050 Ti, 8GB RAM, 512GB SSD, Phantom Blue, Windows 11 Home, 82JW00Q7US",
+      "price": 798,
+      "count": 1
+    }
+  ],
+  "paymentData": [
+    {
+      "id": "dd33",
+      "address_1": "one",
+      "address_2": "two",
+      "city": "Queens",
+      "state": "NY",
+      "card_number": "1234123412341234",
+      "expiration_date": "2028-01-28",
+      "cvv": "123",
+      "name": "AHMED"
+    },
+    {
+      "id": "3ef1",
+      "address_1": "",
+      "address_2": "",
+      "city": "",
+      "state": "",
+      "card_number": 0,
+      "expiration_date": "",
+      "cvv": 0,
+      "name": "AHMED H"
+    },
+    {
+      "id": "1646",
+      "address_1": "one",
+      "address_2": "two",
+      "city": "Queens",
+      "state": "NY",
+      "card_number": "123",
+      "expiration_date": "2029-01-01",
+      "cvv": "123",
+      "name": "A.Lina"
+    },
+    {
+      "id": "d7c9",
+      "address_1": "one",
+      "address_2": "two",
+      "city": "Queens",
+      "state": "NY",
+      "card_number": "1231231231234444",
+      "expiration_date": "2030-01-01",
+      "cvv": "123",
+      "name": "AHMD"
+    },
+    {
+      "id": "a751",
+      "address_1": "one",
+      "address_2": "two",
+      "city": "Queens",
+      "state": "NY",
+      "card_number": "123412341234",
+      "expiration_date": "3030-01-01",
+      "cvv": "333",
+      "name": "LINA"
+    },
+    {
+      "id": "26ce",
+      "address_1": "one",
+      "address_2": "two",
+      "city": "Queens",
+      "state": "NY",
+      "card_number": "1234123412341234",
+      "expiration_date": "10-10-0303",
+      "cvv": "333",
+      "name": "LINA"
+    },
+    {
+      "id": "f1f2",
+      "address_1": "one",
+      "address_2": "two",
+      "city": "Queens",
+      "state": "NY",
+      "card_number": "1231231231234444",
+      "expiration_date": "3030-01-01",
+      "cvv": "333",
+      "name": "LINA"
+    },
+    {
+      "id": "9d09",
+      "address_1": "one",
+      "address_2": "two",
+      "city": "Queens",
+      "state": "NY",
+      "card_number": "0123",
+      "expiration_date": "3030-01-01",
+      "cvv": "222",
+      "name": "Ahmed"
+    },
+    {
+      "id": "dd94",
+      "address_1": "one",
+      "address_2": "two",
+      "city": "Queens",
+      "state": "NY",
+      "card_number": "123412341234",
+      "expiration_date": "3030-01-01",
+      "cvv": "123",
+      "name": "Ayman"
+    },
+    {
+      "id": "a636",
+      "address_1": "one",
+      "address_2": "two",
+      "city": "Queens",
+      "state": "NY",
+      "card_number": "1234123412341234",
+      "expiration_date": "3030-01-01",
+      "cvv": "109",
+      "name": "AHMED"
+    },
+    {
+      "id": "d049",
+      "address_1": "one",
+      "address_2": "two",
+      "city": "Queens",
+      "state": "NY",
+      "card_number": "123412341234",
+      "expiration_date": "3030-01-01",
+      "cvv": "123",
+      "name": "AHMED"
+    },
+    {
+      "id": "314c",
+      "address_1": "",
+      "address_2": "",
+      "city": "",
+      "state": "",
+      "card_number": 0,
+      "expiration_date": "",
+      "cvv": 0,
+      "name": ""
+    },
+    {
+      "id": "df3e",
+      "address_1": "one",
+      "address_2": "two",
+      "city": "Queens",
+      "state": "NY",
+      "card_number": "12312312311321111",
+      "expiration_date": "3030-01-01",
+      "cvv": "121",
+      "name": "Asdss"
+    },
+    {
+      "id": "a8cc",
+      "address_1": "one",
+      "address_2": "two",
+      "city": "Queens",
+      "state": "NY",
+      "card_number": "122320",
+      "expiration_date": "3030-01-01",
+      "cvv": "110",
+      "name": "sdfs"
+    },
+    {
+      "id": "97b7",
+      "address_1": "one",
+      "address_2": "two",
+      "city": "Queens",
+      "state": "NY",
+      "card_number": "1234123412341234",
+      "expiration_date": "3030-01-01",
+      "cvv": "108",
+      "name": "Ahmed"
+    },
+    {
+      "id": "9dfa",
+      "address_1": "one",
+      "address_2": "two",
+      "city": "Queens",
+      "state": "NY",
+      "card_number": "1235",
+      "expiration_date": "3030-01-01",
+      "cvv": "12",
+      "name": "Ahmed"
+    }
+  ]
+}
